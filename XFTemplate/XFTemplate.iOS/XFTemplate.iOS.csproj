@@ -123,6 +123,9 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="DIPS.Xamarin.UI">
+      <Version>10.0.4</Version>
+    </PackageReference>
     <PackageReference Include="Plugin.MaterialDesignControls">
       <Version>1.11.2</Version>
     </PackageReference>

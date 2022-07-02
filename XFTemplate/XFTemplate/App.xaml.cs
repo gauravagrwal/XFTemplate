@@ -9,6 +9,7 @@ namespace XFTemplate
         public App()
         {
             InitializeComponent();
+            DIPS.Xamarin.UI.Library.Initialize();
 
             MainPage = new MainPage();
         }

@@ -23,7 +23,9 @@ namespace XFTemplate.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            DIPS.Xamarin.UI.iOS.Library.Initialize();
             Plugin.MaterialDesignControls.iOS.Renderer.Init();
+            
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
