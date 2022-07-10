@@ -16,6 +16,7 @@ namespace XFTemplate.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            BraveWorld.Forms.BraveLibrary.Init();
             DIPS.Xamarin.UI.Android.Library.Initialize(this);
             Plugin.MaterialDesignControls.Android.Renderer.Init();
 

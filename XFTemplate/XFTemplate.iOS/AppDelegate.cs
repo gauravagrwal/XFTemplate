@@ -23,6 +23,7 @@ namespace XFTemplate.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            BraveWorld.Forms.BraveLibrary.Init();
             DIPS.Xamarin.UI.iOS.Library.Initialize();
             Plugin.MaterialDesignControls.iOS.Renderer.Init();
             

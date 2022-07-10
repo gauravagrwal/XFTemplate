@@ -9,6 +9,7 @@ namespace XFTemplate
         public App()
         {
             InitializeComponent();
+            BraveWorld.Forms.BraveLibrary.RegisterAssembly();
             DIPS.Xamarin.UI.Library.Initialize();
 
             MainPage = new MainPage();

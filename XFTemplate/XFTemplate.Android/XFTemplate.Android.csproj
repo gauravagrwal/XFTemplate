@@ -54,6 +54,9 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="BraveWorld.Forms">
+      <Version>0.0.1.28</Version>
+    </PackageReference>
     <PackageReference Include="DIPS.Xamarin.UI">
       <Version>10.0.4</Version>
     </PackageReference>
