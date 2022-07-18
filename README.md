@@ -2,4 +2,4 @@
 
 | Android | iOS |
 |---------|-----|
-| [![Build status](https://build.appcenter.ms/v0.1/apps/4d58ccdd-2c78-474d-9c12-025ed67f295e/branches/main/badge)](https://appcenter.ms) | [![Build status](https://build.appcenter.ms/v0.1/apps/d9e2afed-2fb3-487b-a591-b6022c2764bc/branches/main/badge)](https://appcenter.ms) |
+| [![Build status](https://build.appcenter.ms/v0.1/apps/33aa0dc2-cd18-4cf9-9307-74fc4799d433/branches/main/badge)](https://appcenter.ms) | [![Build status](https://build.appcenter.ms/v0.1/apps/bb873fe8-9be4-4bda-89ef-0f43010b905a/branches/main/badge)](https://appcenter.ms) |
